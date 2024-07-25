@@ -1,2 +1,1 @@
-console.log(module) //module is not global
-//output will be json file with different keys
+console.log(module) //you can now access logger here, because it made public in logger.js
